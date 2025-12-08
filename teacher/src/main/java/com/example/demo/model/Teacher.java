@@ -14,4 +14,6 @@ public class Teacher {
 
 	@Id
 	private Integer id;
+	private String name;
+	private Float salry;
 }
