@@ -14,6 +14,7 @@ public class TeacherServiceImpl implements TeacherService {
 	@Autowired
 	private TeacherRepository tr;
 	
+	
 	@Override
 	public void add(Teacher t) {
 		// TODO Auto-generated method stub
